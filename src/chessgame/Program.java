@@ -1,21 +1,14 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package chessgame;
 
-/**
- *
- * @author lucky9
- */
-public class Program {
+import boardgame.Position;
+import chess.ChessMatch;
 
-    /**
-     * @param args the command line arguments
-     */
+public class Program {
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        ChessMatch chessMatch = new ChessMatch();
+        UI.printBoard(chessMatch.getPieces());
     }
     
 }
