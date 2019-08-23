@@ -3,12 +3,19 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/lucky9/NetBeansProjects/ChessGame/src/boardgame/Position.java</file>
+            <file>file:/home/lucky9/NetBeansProjects/ChessGame/src/chessgame/UI.java</file>
+            <file>file:/home/lucky9/NetBeansProjects/ChessGame/src/chess/ChessException.java</file>
+            <file>file:/home/lucky9/NetBeansProjects/ChessGame/src/chess/ChessPosition.java</file>
             <file>file:/home/lucky9/NetBeansProjects/ChessGame/src/boardgame/Piece.java</file>
-            <file>file:/home/lucky9/NetBeansProjects/ChessGame/src/chess/Color.java</file>
             <file>file:/home/lucky9/NetBeansProjects/ChessGame/src/chess/ChessPiece.java</file>
+            <file>file:/home/lucky9/NetBeansProjects/ChessGame/src/chess/ChessMatch.java</file>
             <file>file:/home/lucky9/NetBeansProjects/ChessGame/src/boardgame/Board.java</file>
+            <file>file:/home/lucky9/NetBeansProjects/ChessGame/src/boardgame/BoardException.java</file>
             <file>file:/home/lucky9/NetBeansProjects/ChessGame/src/chessgame/Program.java</file>
+            <file>file:/home/lucky9/NetBeansProjects/ChessGame/src/chess/pieces/King.java</file>
+            <file>file:/home/lucky9/NetBeansProjects/ChessGame/src/chess/pieces/Rook.java</file>
+            <file>file:/home/lucky9/NetBeansProjects/ChessGame/src/boardgame/Position.java</file>
+            <file>file:/home/lucky9/NetBeansProjects/ChessGame/src/chess/Color.java</file>
         </group>
     </open-files>
 </project-private>
